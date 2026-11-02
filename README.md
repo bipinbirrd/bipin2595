@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm BipinBirrd. </h1>
 
 ```py
-┌──(xielq@kalilinux)-[~]
+┌──(bipinbirrd@kalilinux)-[~]
 └─$ cat bird.py # I luv cats btw :3
 
   class Bipin:
