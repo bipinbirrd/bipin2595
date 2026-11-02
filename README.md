@@ -47,8 +47,7 @@
   <img src="https://img.shields.io/badge/Arch%20Linux-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <br/>
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/BurpSuite%20-%23FF6633.svg?&style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman%20-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" />
+  
 </p>
 </p>
 
