@@ -48,5 +48,5 @@
 </p>
 </p>
 
-<h2 align="center">👁️ Views</h3>
+<h2 align="center">Views</h3>
 <p align="center"><img src="https://count.getloli.com/get/@bipinbirrd?theme=rule34" /></p>
