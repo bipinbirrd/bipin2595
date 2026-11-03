@@ -1,8 +1,8 @@
 <h1 align="center">Hello there, I'm BipinBirrd. </h1>
 
 ```py
-┌──(bipinbirrd@kalilinux)-[~]
-└─$ cat bird.py # I luv cats btw :3
+┌──(bipinbirrd@kali)-[~]
+└─$ cat main.py
 
   class Bipin:
   
@@ -12,8 +12,8 @@
      self.company   = "The Heroes 2020"
      self.job       = "Not available"
   
-┌──(bipinbirrd@kalilinux)-[~]
-└─$ echo "Love y'all <3"
+┌──(bipinbirrd@kali)-[~]
+└─$ echo "Y'ain't sh*t"
 ```
 
 <hr>
