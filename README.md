@@ -38,7 +38,7 @@
 </p>
 
 <hr>
-<h3 align="center">👨‍💻 I’m Primarily Using</h4>
+<h3 align="center">I’m Primarily Using</h4>
 <br>
 <p align='center'>
   <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" />
